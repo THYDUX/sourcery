@@ -1,4 +1,4 @@
-[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)(https://sourcery.ai)
+[[Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)(https://sourcery.ai)
 
 ## Sourcery - Instant AI Code Reviews 
 
