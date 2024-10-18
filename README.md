@@ -1,6 +1,6 @@
 ![Badge Description](https://img.shields.io/badge/label-message-color)
 
-![[Sourcery](https://sourcery.ai)
+[[Sourcery](https://sourcery.ai)
 
 ## Sourcery - Instant AI Code Reviews 
 
