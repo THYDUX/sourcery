@@ -1,5 +1,5 @@
 ![Badge Description](https://img.shields.io/badge/label-message-color)
-
+![Build Status](https://img.shields.io/github/actions/workflow/status/{USERNAME}/{REPO}/build.yml)
 [[Sourcery](https://sourcery.ai)
 
 ## Sourcery - Instant AI Code Reviews 
