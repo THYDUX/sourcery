@@ -1,5 +1,4 @@
-[Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)
-[https://sourcery.ai]
+#[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)(https://sourcery.ai)
 
 ## Sourcery - Instant AI Code Reviews 
 
@@ -68,4 +67,4 @@ Let the world know your project is using Sourcery to refactor with this badge:
 
 Copy the code below into your README to display your Sourcery badge:
 
-    [[Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
+[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
