@@ -1,4 +1,6 @@
-[[Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)(https://sourcery.ai)
+![Badge Description](https://img.shields.io/badge/label-message-color)
+
+![[Sourcery](https://sourcery.ai)
 
 ## Sourcery - Instant AI Code Reviews 
 
